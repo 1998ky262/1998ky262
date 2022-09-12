@@ -2,7 +2,7 @@
 scratchなどをやっています。
 最近htmlとかcssとかjavascriptとか始めました。
 この3つは超初心者です。
-scratchは2000block超えする神です(は
+scratchは2000block超えする神です(は　<br>
 <strong><a href="https://github.com/1998ky262/1998ky262/issues/1">1998の居場所</a></strong>
 
 ↑に連絡くれたらすぐ返信できます、雑談でもどうぞ。
