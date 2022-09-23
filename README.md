@@ -3,3 +3,6 @@ html css javascriptをやってるよ<br>
 
 ↑に連絡くれたらすぐ返信できます、雑談でもどうぞ。
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1998ky262&label=Profile%20views&color=0e75b6&style=flat" alt="1998ky262" /> </p>  
+<script>
+alert("こっちみんな(((")
+</script>
