@@ -1,6 +1,4 @@
 # 1998ky262
-プログラミングとNCSが好きな中学生です。
-<br>
 <strong><a href="https://1998ky262.github.io/">ホームページ</a></strong><br>
 <strong><a href="https://github.com/1998ky262/1998ky262/issues/1">コメントはこちらに</a></strong>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1998ky262&label=Profile%20views&color=0e75b6&style=flat" alt="1998ky262" /> </p>  
