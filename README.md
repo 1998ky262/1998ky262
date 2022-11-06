@@ -1,11 +1,12 @@
 # 1998ky262
 プログラミングとNCSと将棋が好きな中学生です。
-趣味
-プログラミング
-NCS
-野球
-将棋
-作曲
+<br>
+趣味<br>
+プログラミング<br>
+NCS<br>
+野球<br>
+将棋<br>
+作曲<br>
 <strong><a href="https://github.com/1998ky262/1998ky262/issues/1">1998の居場所</a></strong>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1998ky262&label=Profile%20views&color=0e75b6&style=flat" alt="1998ky262" /> </p>  
