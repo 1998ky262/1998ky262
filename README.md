@@ -5,7 +5,8 @@ JavaScript大好き勢。将棋ウォーズでは26級の雑魚。作曲は超�
 HTML 6/10<br>
 CSS  5/10<br>
 JavaScript 6/10<br>
-python 3/10<br><br>
+python 30/100<br>
+Ruby 20/100<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1998ky262)
