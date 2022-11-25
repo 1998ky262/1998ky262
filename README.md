@@ -8,6 +8,10 @@ JavaScript 60/100<br>
 python 30/100<br>
 Ruby 20/100<br>
 Java 5/100<br>
+# sns
+将棋ウォーズ　kevenJs<br>
+Scratch 1998ky262<br>
+Youtube 1998fx<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1998ky262)
