@@ -12,6 +12,7 @@ Java 5/100<br>
 将棋ウォーズ　kevenJs<br>
 Scratch 1998ky262<br>
 Youtube 1998fx<br>
+# stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1998ky262)
