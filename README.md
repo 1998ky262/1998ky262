@@ -1,6 +1,7 @@
 # 1998ky262
-将棋　プログラミング　作曲と3つの趣味があり勉強が全く進まない13歳の中学生<br>
-将棋ウォーズでは19級(弱い) 作曲は超初心者<br>
+将棋とプログラミングの二つの趣味があり勉強が全く進まない13歳の中学生<br>
+hi i am 1998ky262 plz call me 1998. my hobby is shogi and coding...
+i crazy their so i cannot study haha.
 # Languages
 HTML Scratch CSS JavaScript Python Ruby JAVA
 # SNS
