@@ -4,9 +4,11 @@
 # langages
 HTML Scratch CSS JavaScript Python Ruby JAVA
 # sns
-将棋ウォーズ　kevenJs<br>
+Shogi Wars　kevenJs<br>
 Scratch 1998ky262<br>
 Youtube 1998fx<br>
+discode ぬううううううう #9157<br>
+twitter 1998ky262_FX<br>
 # stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
