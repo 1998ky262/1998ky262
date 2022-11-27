@@ -1,13 +1,8 @@
 # 1998ky262
 将棋　プログラミング　作曲と3つの趣味があり勉強が全く進まない13歳の中学生<br>
 将棋ウォーズでは19級(弱い) 作曲は超初心者<br>
-# langage level
-HTML 59/100<br>
-CSS  50/100<br>
-JavaScript 60/100<br>
-python 30/100<br>
-Ruby 20/100<br>
-Java 5/100<br>
+# langages
+HTML Scratch CSS JavaScript Python Ruby JAVA
 # sns
 将棋ウォーズ　kevenJs<br>
 Scratch 1998ky262<br>
