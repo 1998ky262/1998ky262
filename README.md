@@ -1,4 +1,4 @@
-# 1998ky262
+# welcome to my profile!
 将棋とプログラミングの二つの趣味があり勉強が全く進まない13歳の中学生<br>
 hi i am 1998ky262 plz call me 1998. my hobby is shogi and coding...
 i crazy shogi and coding  so i cannot study haha.
