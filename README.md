@@ -14,8 +14,8 @@ twitter 1998ky262_FX<br>
 # To do list
 change css by js ✅<br>
 node.js<br>
-remake my site!
-css easing
+remake my site!<br>
+css easing<br>
 javascript easing
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
