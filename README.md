@@ -12,6 +12,7 @@ Youtube 1998fx<br>
 discode ぬううううううう #9157<br>
 twitter 1998ky262_FX<br>
 # Studying...
+change css by js ✅<br>
 node.js<br>
 css
 # Stats
