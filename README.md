@@ -11,7 +11,7 @@ Scratch 1998ky262<br>
 Youtube 1998fx<br>
 discode ぬううううううう #9157<br>
 twitter 1998ky262_FX<br>
-# Studying...
+# To do list
 change css by js ✅<br>
 node.js<br>
 css
