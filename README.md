@@ -1,12 +1,7 @@
 # welcome to my profile!
 将棋とプログラミングの二つの趣味があり勉強が全く進まない13歳の中学生<br>
 hi i am 1998ky262 who is japanese,plz call me 1998. my hobby is shogi(it is the bord game)and coding...
-# SNS
-Shogi Wars　kevenJs<br>
-Scratch 1998ky262<br>
-Youtube 1998fx<br>
-discode ぬううううううう #9157<br>
-twitter 1998ky262_FX<br>
+<br><a href="1998ky262.github.io">HomePage</a>
 # To do list
 change css by js ✅<br>
 node.js<br>
