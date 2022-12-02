@@ -13,4 +13,3 @@ javascript easing✅
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1998ky262)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1998ky262&label=Profile%20views&color=0e75b6&style=flat" alt="1998ky262"></p> 
