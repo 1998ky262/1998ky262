@@ -4,10 +4,7 @@ hi i am 1998ky262 who is japanese,plz call me 1998. my hobby is shogi(it is the 
 # my home page!
 https://1998ky262.github.io
 # To do list
-change css by js ✅<br>
-node.js<br>
-remake my site!✅<br>
-javascript easing✅
+none hahahahaha
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1998ky262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
