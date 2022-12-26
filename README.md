@@ -1,8 +1,8 @@
-# Welcome to my profile!
+# ようこそ
 JSしか勝たん！
 pythonはロゴがキモい、インデントがうざい、サーバーサイドだけ(過激派)
-推しはJSです。JavaScript is the God( ͡° ͜ʖ ͡°)
-## my site (ごみ)
+推しはJSです( ͡° ͜ʖ ͡°)
+## サイト(ごみ)
 https://1998ky262.github.io
 ## やってること
 p5.js
