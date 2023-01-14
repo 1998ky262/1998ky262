@@ -6,5 +6,5 @@ pythonはロゴがキモい、インデントがうざい、サーバーサイ�
 https://1998ky262.github.io
 ## やってること
 p5.js<br>
-react
+node.js
 
