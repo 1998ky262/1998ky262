@@ -1,10 +1,2 @@
-## 1998
-JSしか勝たん！<br>
-pythonはロゴがキモい、インデントがうざい、サーバーサイドだけ(過激派)<br>
-推しはJSです( ͡° ͜ʖ ͡°)
-## サイト(ごみ)
-https://1998ky262.github.io
-## やってること
-p5.js<br>
-node.js
-
+# 1998
+HTML&CSS / JavaScript / python
