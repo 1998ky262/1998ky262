@@ -6,7 +6,7 @@
   </p>
 </p>
 <p align="center">
-多分僕の技術力の範囲で質問とかは答えます  
+プログラミング歴4ヶ月ばか
   </p>
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
