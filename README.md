@@ -6,7 +6,7 @@
   </p>
 </p>
 <p align="center">
-プログラミング歴4ヶ月ばか
+C++って難しいというより面倒だなｗ<br>プログラミング歴６か月
   </p>
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
